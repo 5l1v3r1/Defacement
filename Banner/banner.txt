@@ -1,0 +1,30 @@
+
+	██████╗ ███████╗███████╗ █████╗  ██████╗███████╗
+	██╔══██╗██╔════╝██╔════╝██╔══██╗██╔════╝██╔════╝
+	██║  ██║█████╗  █████╗  ███████║██║     █████╗  
+	██║  ██║██╔══╝  ██╔══╝  ██╔══██║██║     ██╔══╝  
+	██████╔╝███████╗██║     ██║  ██║╚██████╗███████╗
+	╚═════╝ ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝
+	                                                
+	██╗  ██╗    ████████╗███████╗ █████╗ ███╗   ███╗
+	╚██╗██╔╝    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
+	 ╚███╔╝        ██║   █████╗  ███████║██╔████╔██║
+	 ██╔██╗        ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║
+	██╔╝ ██╗       ██║   ███████╗██║  ██║██║ ╚═╝ ██║
+	╚═╝  ╚═╝       ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+	                                                
+                                          
+ Indosecurity's : Material For Today Is Deface Indonesia [ 192.179.43.167 ]
+
+        =[ By Indo Security Deface Indonesia     ]
+ x -- --=[ 00 exploits - 00 auxiliary - 7 post   ]=-- -- x
+ x -- --=[ payloads - encoders - nops            ]=-- -- x
+ x -- --=[ Tools - Deface Indonesia By Indo      ]=-- -- x
+
+  Code: 00 00 00 00 B7 IND0 S6C U2I TI 00 00 00 00
+  Whoever Doesn't Want To feel the Pain
+  of learning they will feel how poor ignorance is
+  RX packets 40413  bytes 50532090 ( 50.5 MB ) =-- -- +
+
+ wlp2s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500 IND0 S6 U2I TI
+ inet6 fe00::f5e6:6f69:6050:8029  prefixlen 64  scopeid 0x20<link>
