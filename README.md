@@ -13,7 +13,7 @@ Yang Bisa Kalian Create Sesuai Dengan Nama Team Kalian Masing Masing Dan Nicknam
 ### Download, setup, and usage For Git
 * apt-get update && apt instal git
 * apt install lolcat
-* git clone git clone https://github.com/byindosecurity/Deface-X.git 
+* git clone git clone https://github.com/byindosecurity/Defacement.git
 * cd Deface-x
 * Bash DefaceIndo.sh
 ***
@@ -41,7 +41,7 @@ MISC
 
 
 ## Penjelasan Tentang Deface x Team
-* Silahkan Kalian Baca Wiki Byindosecurity Dihalaman Ini : 
+* Silahkan Kalian Baca Wiki Byindosecurity Dihalaman Ini : https://github.com/byindosecurity/Web-Backdoor/wiki
 * Untuk Cara Menggunakan Nya Sudah Kami Sediakan Di Youtube Silahkan Di 
 Check Pembahasan Mengenai Deface By indosecurity
 * Kunjungi Video Tutorial WEB Disini : https://bit.ly/30La3QJ
@@ -58,9 +58,9 @@ Check Pembahasan Mengenai Deface By indosecurity
  ```
 * Setelah Selesai lalu Ketik Ditermux ``` ./start-kali.sh ``` setelah itu Enter Jika Sudah Muncul Bacaan ``` Root@localhost ```Lalu Ketik ``` apt-get update ``` Enter - Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
 * Lalu Berikut nya ketik ``` apt instal git ``` enter Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
-* setelah Selesai Semua Ketik ``` git clone https://github.com/byindosecurity/Deface-x.git ```enter Jika Ada Option 
+* setelah Selesai Semua Ketik ``` git clone https://github.com/byindosecurity/Defacement.git ```enter Jika Ada Option 
   Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
-* setelah itu Masuk Kedalam Folder Deface-x Dan Jalankan Bash DefaceIndo.sh
+* setelah itu Masuk Kedalam Folder Defacement Dan Jalankan Bash DefaceIndo.sh
 
 ![1](http://docs.google.com/uc?export=open&amp;id=1x4rrXfZD68A-ixs4yAEhHaySOtYhQJY4)
 
