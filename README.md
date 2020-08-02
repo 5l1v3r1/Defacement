@@ -14,7 +14,7 @@ Yang Bisa Kalian Create Sesuai Dengan Nama Team Kalian Masing Masing Dan Nicknam
 * apt-get update && apt instal git
 * apt install lolcat
 * git clone git clone https://github.com/byindosecurity/Defacement.git
-* cd Deface-x
+* cd Defacement
 * Bash DefaceIndo.sh
 ***
 ```
