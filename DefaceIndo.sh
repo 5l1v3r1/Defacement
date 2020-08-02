@@ -263,8 +263,10 @@
 	banner
 	printf " \e[1;92m[\e[0m\e[1;77mX\e[0m\e[1;92m]\e[0m\e[1;93m Generate Desain Deface $(date) \e[0m\n"
 	sleep 3
-	printf " \e[1;92m[\e[0m\e[1;77mX\e[0m\e[1;92m]\e[0m\e[1;93m Generate Location File \e[0m\e[1;77m$(pwd)/create/index.html \e[0m\e[1;93m \e[0m\n "
-
+	printf " \e[1;92m[\e[0m\e[1;77mX\e[0m\e[1;92m]\e[0m\e[1;93m Generate Location File \e[0m\e[1;77m$(pwd)/create/index.html \e[0m\e[1;93m \e[0m\n"
+	sleep 1
+	printf " \e[1;92m[\e[0m\e[1;77mX\e[0m\e[1;92m]\e[0m\e[1;93m Generate Location File \e[0m\e[1;77m$(pwd)/create/Generator/Generator.html \e[0m\e[1;93m \e[0m\n"
+	
 	}
 
 	# --------------------------------------------------------------------------------------
@@ -519,7 +521,9 @@
 	  banner
 	  printf "\e[1;92m[\e[0m\e[1;77mX\e[0m\e[1;92m]\e[0m\e[1;93m Generate Desain Deface $(date) \e[0m\n"
 	  sleep 3
-	  printf "\e[1;92m[\e[0m\e[1;77mX\e[0m\e[1;92m]\e[0m\e[1;93m Generate Location File \e[0m\e[1;77m$(pwd)/create/index.html \e[0m\e[1;93m \e[0m\n "
+	  printf "\e[1;92m[\e[0m\e[1;77mX\e[0m\e[1;92m]\e[0m\e[1;93m Generate Location File \e[0m\e[1;77m$(pwd)/create/index.html \e[0m\e[1;93m \e[0m\n"
+	  sleep 1
+	  printf "\e[1;92m[\e[0m\e[1;77mX\e[0m\e[1;92m]\e[0m\e[1;93m Generate Location File \e[0m\e[1;77m$(pwd)/create/Generator/Generator.html \e[0m\e[1;93m \e[0m\n"
 
 	}
 
